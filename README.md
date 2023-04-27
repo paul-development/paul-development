@@ -13,6 +13,11 @@
 
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,js,css,html" />
+  </a>
+</p>
 ### Spotify Playing 🎧
 
 [![Spotify](https://frostmain.vercel.app/api/spotify)](https://open.spotify.com/user/699343110)
