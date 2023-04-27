@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=java,vscode,js,css,html" />
   </a>
 </p>
 ### Spotify Playing 🎧
