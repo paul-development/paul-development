@@ -23,17 +23,17 @@
 
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,swiftui,nodejs,jquery,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,apple,bootstrap" />
 </p>
 
 <h3 align="center">Entwicklungsumgebung</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,xcode,eclipse,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github" />
 </p>
 
 <h3 align="center">Datenbanken & Build Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,maven,gradle,npm" />
+  <img src="https://skillicons.dev/icons?i=mysql,maven,gradle,npm" />
 </p>
 
 ---
