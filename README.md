@@ -8,8 +8,6 @@
 💻 Spezialisiert auf <strong>Java-Entwicklung</strong>, <strong>Debugging</strong> und <strong>objektorientierte Programmierung</strong><br>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/472788113501061141)](https://discord.com/users/472788113501061141)
-
 </div>
 
 ---
